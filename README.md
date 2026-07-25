@@ -1,3 +1,4 @@
+
 # Blinkit Sales Analysis Dashboard
 
 ## Project Overview
@@ -116,5 +117,9 @@ This dashboard helps businesses to:
 - Understand customer purchasing trends.
 - Improve inventory planning.
 - Support data-driven business decisions using interactive visualizations.
+
+DASHBOARD- 
+
+<img width="1290" height="732" alt="blinkit dashboard" src="https://github.com/user-attachments/assets/0942320e-b7c4-456b-b60d-a89d04c476e5" />
 
 
